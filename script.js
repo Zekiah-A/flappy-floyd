@@ -353,7 +353,7 @@ let speedIncrement = 0.3;
 let nextDifficultyTime = performance.now() + difficultyInterval;
 
 // BG music
-const bgMusic = new Audio("assets/flappyfloydsolana.wav");
+const bgMusic = new Audio("assets/flappyfloydonsolana.wav");
 bgMusic.loop = true;
 
 // overlay
